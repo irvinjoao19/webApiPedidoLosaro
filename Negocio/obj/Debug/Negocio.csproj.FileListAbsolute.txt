@@ -52,3 +52,12 @@ E:\Visual\ProyectoITFLosaro\WebApiITFVentas\Negocio\bin\Debug\Negocio.pdb
 E:\Visual\ProyectoITFLosaro\WebApiITFVentas\Negocio\bin\Debug\Contexto.dll
 E:\Visual\ProyectoITFLosaro\WebApiITFVentas\Negocio\bin\Debug\Contexto.pdb
 E:\Visual\ProyectoITFLosaro\WebApiITFVentas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Negocio\bin\Debug\Negocio.dll
+E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Negocio\bin\Debug\Negocio.pdb
+E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Negocio\bin\Debug\Contexto.dll
+E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Negocio\bin\Debug\Contexto.pdb
+E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Negocio\obj\Debug\Negocio.dll
+E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Negocio\obj\Debug\Negocio.pdb
