@@ -34,3 +34,9 @@ E:\Visual\ProyectoITFLosaro\WebApiITFVentas\Contexto\obj\Release\Contexto.csproj
 E:\Visual\ProyectoITFLosaro\WebApiITFVentas\Contexto\obj\Release\Contexto.csproj.CoreCompileInputs.cache
 E:\Visual\ProyectoITFLosaro\WebApiITFVentas\Contexto\obj\Release\Contexto.dll
 E:\Visual\ProyectoITFLosaro\WebApiITFVentas\Contexto\obj\Release\Contexto.pdb
+D:\Documentos\Irvin\webApiPedidoLosaro\Contexto\bin\Release\Contexto.dll
+D:\Documentos\Irvin\webApiPedidoLosaro\Contexto\bin\Release\Contexto.pdb
+D:\Documentos\Irvin\webApiPedidoLosaro\Contexto\obj\Release\Contexto.csproj.AssemblyReference.cache
+D:\Documentos\Irvin\webApiPedidoLosaro\Contexto\obj\Release\Contexto.csproj.CoreCompileInputs.cache
+D:\Documentos\Irvin\webApiPedidoLosaro\Contexto\obj\Release\Contexto.dll
+D:\Documentos\Irvin\webApiPedidoLosaro\Contexto\obj\Release\Contexto.pdb

@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Contexto</RootNamespace>
     <AssemblyName>Contexto</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <TargetFrameworkProfile />
@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Reporte\CotizacionDetalle.cs" />
+    <Compile Include="Reporte\Cotizacion.cs" />
     <Compile Include="EstadoOperario.cs" />
     <Compile Include="Filtro.cs" />
     <Compile Include="Mensaje.cs" />
@@ -53,5 +55,6 @@
     <Compile Include="Sync.cs" />
     <Compile Include="Usuario.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

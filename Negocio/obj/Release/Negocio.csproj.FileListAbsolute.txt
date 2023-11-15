@@ -52,3 +52,12 @@ E:\Visual\ProyectoITFLosaro\WebApiITFVentas\Negocio\obj\Release\Negocio.csproj.C
 E:\Visual\ProyectoITFLosaro\WebApiITFVentas\Negocio\obj\Release\Negocio.csproj.CopyComplete
 E:\Visual\ProyectoITFLosaro\WebApiITFVentas\Negocio\obj\Release\Negocio.dll
 E:\Visual\ProyectoITFLosaro\WebApiITFVentas\Negocio\obj\Release\Negocio.pdb
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\bin\Release\Negocio.dll
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\bin\Release\Negocio.pdb
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\bin\Release\Contexto.dll
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\bin\Release\Contexto.pdb
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\obj\Release\Negocio.csproj.CopyComplete
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\obj\Release\Negocio.dll
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\obj\Release\Negocio.pdb

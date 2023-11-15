@@ -40,3 +40,9 @@ E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Contexto\obj\Debug\Contexto.cspro
 E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Contexto\obj\Debug\Contexto.csproj.CoreCompileInputs.cache
 E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Contexto\obj\Debug\Contexto.dll
 E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Contexto\obj\Debug\Contexto.pdb
+D:\Documentos\Irvin\webApiPedidoLosaro\Contexto\bin\Debug\Contexto.dll
+D:\Documentos\Irvin\webApiPedidoLosaro\Contexto\bin\Debug\Contexto.pdb
+D:\Documentos\Irvin\webApiPedidoLosaro\Contexto\obj\Debug\Contexto.csproj.AssemblyReference.cache
+D:\Documentos\Irvin\webApiPedidoLosaro\Contexto\obj\Debug\Contexto.csproj.CoreCompileInputs.cache
+D:\Documentos\Irvin\webApiPedidoLosaro\Contexto\obj\Debug\Contexto.dll
+D:\Documentos\Irvin\webApiPedidoLosaro\Contexto\obj\Debug\Contexto.pdb

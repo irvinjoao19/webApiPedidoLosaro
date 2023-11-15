@@ -61,3 +61,12 @@ E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Negocio\obj\Debug\Negocio.csproj.
 E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Negocio\obj\Debug\Negocio.dll
 E:\Visual\ProyectoITFLosaro\WebApiPedidoLosaro\Negocio\obj\Debug\Negocio.pdb
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\bin\Debug\Negocio.dll
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\bin\Debug\Negocio.pdb
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\bin\Debug\Contexto.dll
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\bin\Debug\Contexto.pdb
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\obj\Debug\Negocio.dll
+D:\Documentos\Irvin\webApiPedidoLosaro\Negocio\obj\Debug\Negocio.pdb
