@@ -17,9 +17,9 @@ namespace WebApiDsigeVentas.Controllers
     public class CotizacionController : ApiController
     {
 
-        [HttpGet]
+        [HttpPost]
         [Route("Reporte/{id}")]
-        public HttpResponseMessage Get(int id)
+        public HttpResponseMessage Post(int id)
         {
             Cotizacion _ = CotizacionDao.BuscarPorId(id);
 
