@@ -9,7 +9,6 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Web;
 using System.Web.Http;
-using Microsoft.Ajax.Utilities;
 
 namespace WebApiDsigeVentas.Controllers
 {
@@ -89,8 +88,8 @@ namespace WebApiDsigeVentas.Controllers
                             table.Cell().Width(6f, Unit.Centimetre).Image(urlLogo);
                             table.Cell().AlignCenter().Column(x =>
                             {
-                                x.Item().AlignCenter().Text("COTIZACIÓN").FontFamily(Fonts.TimesNewRoman).FontSize(18).Bold().Italic();
-                                x.Item().AlignCenter().Text(entidad.NroCotizacion.ToString("0000000")).FontFamily(Fonts.TimesNewRoman).FontSize(20).Bold().Italic();
+                                x.Item().AlignCenter().Text("COTIZACIÓN").FontSize(17).Bold();
+                                x.Item().AlignCenter().Text(entidad.NroCotizacion.ToString("0000000")).FontSize(18).Bold();
                             });
 
                             table.Cell().PaddingLeft(40).Column(x =>
@@ -290,7 +289,6 @@ namespace WebApiDsigeVentas.Controllers
                                 table.Cell().Text(entidad.ValidezOferta);
                             });
 
-
                             x.Item().PaddingTop(10).Table(table =>
                             {
                                 table.ColumnsDefinition(columns =>
@@ -301,36 +299,36 @@ namespace WebApiDsigeVentas.Controllers
                                 });
 
 
-                                table.Cell().Element(CellHeaderStyle).Text("CTA BCP SOLES :").FontFamily(Fonts.TimesNewRoman);
-                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaBcpSoles).Bold().FontFamily(Fonts.TimesNewRoman);
+                                table.Cell().Element(CellHeaderStyle).Text("CTA BCP SOLES :");
+                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaBcpSoles).Bold();
                                 table.Cell();
 
-                                table.Cell().Element(CellStyle).Text("CTA INTER BANCARIA BCP SOLES :").FontFamily(Fonts.TimesNewRoman);
-                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaInterbancariaBcpSoles).Bold().FontFamily(Fonts.TimesNewRoman);
+                                table.Cell().Element(CellStyle).Text("CTA INTER BANCARIA BCP SOLES :");
+                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaInterbancariaBcpSoles).Bold();
                                 table.Cell();
 
-                                table.Cell().Element(CellHeaderStyle).Text("CTA BCP DOLARES:").FontFamily(Fonts.TimesNewRoman);
-                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaBcpDolares).Bold().FontFamily(Fonts.TimesNewRoman);
+                                table.Cell().Element(CellHeaderStyle).Text("CTA BCP DOLARES:");
+                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaBcpDolares).Bold();
                                 table.Cell();
 
-                                table.Cell().Element(CellHeaderStyle).Text("CTA INTER BANCARIA BCP DOLARES :").FontFamily(Fonts.TimesNewRoman);
-                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaInterbancariaBcpDolares).Bold().FontFamily(Fonts.TimesNewRoman);
+                                table.Cell().Element(CellHeaderStyle).Text("CTA INTER BANCARIA BCP DOLARES :");
+                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaInterbancariaBcpDolares).Bold();
                                 table.Cell();
 
-                                table.Cell().Element(CellHeaderStyle).Text("CÓDIGO AGENTE BCP :").FontFamily(Fonts.TimesNewRoman);
-                                table.Cell().Element(CellHeaderStyle).Text(entidad.CodigoAgenteBcp).Bold().FontFamily(Fonts.TimesNewRoman);
+                                table.Cell().Element(CellHeaderStyle).Text("CÓDIGO AGENTE BCP :");
+                                table.Cell().Element(CellHeaderStyle).Text(entidad.CodigoAgenteBcp).Bold();
                                 table.Cell();
 
-                                table.Cell().Element(CellHeaderStyle).Text("CTA BANCO DE LA NACIÓN SOLES :").FontFamily(Fonts.TimesNewRoman);
-                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaBancoNacionSoles).Bold().FontFamily(Fonts.TimesNewRoman);
+                                table.Cell().Element(CellHeaderStyle).Text("CTA BANCO DE LA NACIÓN SOLES :");
+                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaBancoNacionSoles).Bold();
                                 table.Cell();
 
-                                table.Cell().Element(CellHeaderStyle).Text("CTA CONTINENTAL BBVA SOLES :").FontFamily(Fonts.TimesNewRoman);
-                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaBbvaSoles).Bold().FontFamily(Fonts.TimesNewRoman);
+                                table.Cell().Element(CellHeaderStyle).Text("CTA CONTINENTAL BBVA SOLES :");
+                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaBbvaSoles).Bold();
                                 table.Cell();
 
-                                table.Cell().Element(CellHeaderStyle).Text("CTA INTER BANCARIA BBVA DOLARES").FontFamily(Fonts.TimesNewRoman);
-                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaInterbancariaBbvaDolares).Bold().FontFamily(Fonts.TimesNewRoman);
+                                table.Cell().Element(CellHeaderStyle).Text("CTA INTER BANCARIA BBVA DOLARES");
+                                table.Cell().Element(CellHeaderStyle).Text(entidad.CuentaInterbancariaBbvaDolares).Bold();
                                 table.Cell();
                             });
 

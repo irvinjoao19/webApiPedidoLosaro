@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>D:\Publicaciones\WebApiLosaro</_PublishTargetUrl>
-    <History>True|2023-11-15T05:01:32.7172154Z;True|2023-11-15T00:00:18.4904033-05:00;True|2023-02-06T11:02:36.4230004-05:00;True|2023-02-06T00:44:51.5663779-05:00;True|2023-02-03T18:50:21.4281869-05:00;True|2023-02-03T16:37:51.3639997-05:00;True|2022-09-21T11:26:57.6252178-05:00;True|2022-09-14T17:41:00.8368704-05:00;True|2022-09-14T16:42:13.8833513-05:00;True|2022-09-14T15:00:48.5205986-05:00;True|2022-09-01T14:50:29.8863203-05:00;</History>
+    <History>True|2023-11-16T21:46:04.2257517Z;True|2023-11-16T16:43:11.6153909-05:00;True|2023-11-15T00:01:32.7172154-05:00;True|2023-11-15T00:00:18.4904033-05:00;True|2023-02-06T11:02:36.4230004-05:00;True|2023-02-06T00:44:51.5663779-05:00;True|2023-02-03T18:50:21.4281869-05:00;True|2023-02-03T16:37:51.3639997-05:00;True|2022-09-21T11:26:57.6252178-05:00;True|2022-09-14T17:41:00.8368704-05:00;True|2022-09-14T16:42:13.8833513-05:00;True|2022-09-14T15:00:48.5205986-05:00;True|2022-09-01T14:50:29.8863203-05:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -91,10 +91,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>11/14/2023 08:27:54</publishTime>
     </File>
     <File Include="bin/App_global.asax.compiled">
-      <publishTime>11/15/2023 00:01:29</publishTime>
+      <publishTime>11/16/2023 16:46:03</publishTime>
     </File>
     <File Include="bin/App_global.asax.dll">
-      <publishTime>11/15/2023 00:01:29</publishTime>
+      <publishTime>11/16/2023 16:46:02</publishTime>
     </File>
     <File Include="bin/arm64/libHarfBuzzSharp.dll">
       <publishTime>09/20/2023 13:11:38</publishTime>
@@ -181,10 +181,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>11/14/2023 08:27:55</publishTime>
     </File>
     <File Include="bin/Negocio.dll">
-      <publishTime>11/15/2023 00:00:08</publishTime>
+      <publishTime>11/16/2023 16:43:01</publishTime>
     </File>
     <File Include="bin/Negocio.pdb">
-      <publishTime>11/15/2023 00:00:08</publishTime>
+      <publishTime>11/16/2023 16:43:01</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>11/14/2023 08:27:55</publishTime>
@@ -388,10 +388,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>11/14/2023 08:27:55</publishTime>
     </File>
     <File Include="bin/WebApiDsigeVentas.dll">
-      <publishTime>11/15/2023 00:01:25</publishTime>
+      <publishTime>11/16/2023 16:45:59</publishTime>
     </File>
     <File Include="bin/WebApiDsigeVentas.pdb">
-      <publishTime>11/15/2023 00:01:25</publishTime>
+      <publishTime>11/16/2023 16:45:59</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>11/14/2023 08:27:55</publishTime>
@@ -469,7 +469,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>09/20/2023 12:43:42</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>11/15/2023 00:01:26</publishTime>
+      <publishTime>11/16/2023 16:46:00</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>11/14/2023 08:27:54</publishTime>
@@ -514,7 +514,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>11/14/2023 08:27:54</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/15/2023 00:00:08</publishTime>
+      <publishTime>11/16/2023 16:43:02</publishTime>
     </File>
     <File Include="x64/libHarfBuzzSharp.dll">
       <publishTime>09/20/2023 13:11:34</publishTime>
